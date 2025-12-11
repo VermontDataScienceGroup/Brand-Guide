@@ -5,9 +5,9 @@ Our color palette is carefully chosen to reflect the Vermont Data Science Group 
 ## Primary Colors
 
 ### Vermont Green
-- **Hex**: `#0D5E3A`
-- **RGB**: 13, 94, 58
-- **CMYK**: 86, 0, 38, 63
+- **Hex**: `#286a41`
+- **RGB**: 40, 106, 65
+- **CMYK**: 83, 35, 87, 25
 - **Usage**: Primary brand color, headers, key elements
 
 ### Data Blue
@@ -19,9 +19,9 @@ Our color palette is carefully chosen to reflect the Vermont Data Science Group 
 ## Secondary Colors
 
 ### Light Green
-- **Hex**: `#7CB342`
-- **RGB**: 124, 179, 66
-- **CMYK**: 31, 0, 63, 30
+- **Hex**: `#3aa560`
+- **RGB**: 58, 165, 96
+- **CMYK**: 76, 10, 83, 1
 - **Usage**: Accents, highlights, success messages
 
 ### Sky Blue
