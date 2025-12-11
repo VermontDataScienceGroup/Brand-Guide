@@ -46,7 +46,21 @@ jupyter-book clean .
 
 ## Deploying to GitHub Pages
 
-To deploy this book to GitHub Pages:
+This repository includes a GitHub Actions workflow (`.github/workflows/deploy.yml`) that automatically builds and deploys the book to GitHub Pages when changes are pushed to the `main` branch.
+
+### Setup GitHub Pages
+
+1. Go to your repository settings
+2. Navigate to "Pages" in the left sidebar
+3. Under "Source", select "Deploy from a branch"
+4. Select the `gh-pages` branch and `/ (root)` folder
+5. Click "Save"
+
+The website will be available at: `https://vermontdatasciencegroup.github.io/Brand-Guide/`
+
+### Manual Deployment
+
+Alternatively, you can deploy manually:
 
 1. Build the book: `jupyter-book build .`
 2. Install `ghp-import`: `pip install ghp-import`
