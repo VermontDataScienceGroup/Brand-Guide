@@ -2,18 +2,38 @@
 
 Our logo is the visual cornerstone of the Vermont Data Science Group brand. It should be used consistently across all communications.
 
-## Primary Logo
+## Color Logos
 
-The primary logo is our main brand identifier and should be used in most applications.
+Use the full color logos whenever possible for maximum visual impact.
 
-### Logo Variations
+### Color Stacked
+![VDSG Color Stacked Logo](../logo/VDSGcolorstacked.png)
 
-We offer several logo variations to accommodate different use cases:
+### Color Long
+![VDSG Color Long Logo](../logo/VDSGcolorlong.png)
 
-- **Full Color Logo**: Use this version whenever possible
-- **Single Color Logo**: For situations where full color reproduction is not possible
-- **White Logo**: For use on dark backgrounds
-- **Black Logo**: For use on light backgrounds
+### Color Icon
+![VDSG Color Icon](../logo/VDSGicongrey.png)
+
+## White Logos
+
+Use white logos on dark backgrounds.
+
+### White Long
+![VDSG White Long Logo](../logo/VDSGwhitelong.png)
+
+## Black Logos
+
+Use black logos on light backgrounds.
+
+### Black Long
+![VDSG Black Long Logo](../logo/VDSGblacklong.png)
+
+### Black Icon
+![VDSG Black Icon](../logo/VDSGiconblack.png)
+
+### White Icon
+![VDSG White Icon](../logo/VDSGiconwhite.png)
 
 ## Clear Space
 
@@ -32,10 +52,6 @@ To maintain legibility, never reproduce the logo smaller than:
 ❌ Do not rotate the logo
 ❌ Do not add effects (shadows, gradients, etc.)
 ❌ Do not place the logo on busy backgrounds
-
-## Logo Downloads
-
-*Logo files will be available in various formats (PNG, SVG, EPS) for different use cases.*
 
 ---
 
