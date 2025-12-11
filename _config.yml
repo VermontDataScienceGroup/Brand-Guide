@@ -1,0 +1,36 @@
+# Book settings
+title: Vermont Data Science Group - Brand Guide
+author: Vermont Data Science Group
+copyright: "2025"
+logo: ""
+
+# Force re-execution of notebooks on each build.
+execute:
+  execute_notebooks: off
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: brand-guide.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/VermontDataScienceGroup/Brand-Guide
+  path_to_book: ""
+  branch: main
+
+# Add GitHub buttons to your book
+html:
+  use_issues_button: true
+  use_repository_button: true
+  use_edit_page_button: false
+  baseurl: https://vermontdatasciencegroup.github.io/Brand-Guide/
+
+# Sphinx configuration
+sphinx:
+  config:
+    html_theme: sphinx_book_theme
